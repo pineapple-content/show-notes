@@ -7,6 +7,7 @@ About Gatsby
 * [Using the Gatsby GraphQL Playground](https://www.gatsbyjs.org/docs/using-graphql-playground/)
 * [The Content Mesh](https://www.gatsbyjs.org/blog/2018-10-04-journey-to-the-content-mesh/)
 * [Apollo Server](https://www.apollographql.com/docs/apollo-server/)
+* [Using Gatsby with a Headless CMS] (https://buttercms.com/blog/how-to-use-gatsby-with-a-headless-cms)
 
 Fundamentals of working with Gatsby
 
